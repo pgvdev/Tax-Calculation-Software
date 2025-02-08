@@ -1,9 +1,9 @@
 <h1>Overview of the UK Tax Calculation App</h1>
 
-The tax application is designed to automate the tax calculation process for employees in the UK, reducing manual paperwork and ensuring accuracy in tax deductions. 
-It follows the latest UK tax calculation rules applicable in England, Wales, and Northern Ireland, enabling organizations to generate payslips for employees based on their income levels.
+<p>The tax application is designed to automate the tax calculation process for employees in the UK, reducing manual paperwork and ensuring accuracy in tax deductions. 
+It follows the latest UK tax calculation rules applicable in England, Wales, and Northern Ireland, enabling organizations to generate payslips for employees based on their income levels.</p>
 
-<img width="276" alt="image" src="https://github.com/user-attachments/assets/ec47572d-cb6f-4630-b282-b9963732656f" />
+<img alt="image" src="https://github.com/user-attachments/assets/ec47572d-cb6f-4630-b282-b9963732656f" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/b835b6b1-e27d-44d9-b22a-2e6ea056e368" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/a702ef8f-ee3e-4500-b3ab-bfa285d01681" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/83160c94-efff-4a06-ab4b-937d4d55aa28" />
