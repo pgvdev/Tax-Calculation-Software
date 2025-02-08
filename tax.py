@@ -234,4 +234,3 @@ save_continue = tkinter.Checkbutton(save_frame, text="I can confirm these detail
 save_continue.grid(row=0, column=0)
 
 window.mainloop()
- 
