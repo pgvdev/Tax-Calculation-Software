@@ -5,14 +5,14 @@ It follows the latest UK tax calculation rules applicable in England, Wales, and
 
 <img alt="image" src="https://github.com/user-attachments/assets/ec47572d-cb6f-4630-b282-b9963732656f" />
 <img alt="image" src="https://github.com/user-attachments/assets/b835b6b1-e27d-44d9-b22a-2e6ea056e368" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/a702ef8f-ee3e-4500-b3ab-bfa285d01681" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/83160c94-efff-4a06-ab4b-937d4d55aa28" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/d8a79c50-c386-400c-b829-e45bcabc4f60" />
-<img width="305" alt="image" src="https://github.com/user-attachments/assets/6c9e9dde-36e3-4da7-9285-3bfba5cec706" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/0e826164-3980-47ac-b379-0fc9c7bb2256" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8f191f90-447b-4b19-ac89-e059fcd78a46" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8a47a685-9f34-48eb-b5ec-8eb1f5c14ae5" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/e5566f11-1008-478c-b430-f3b1e63c6764" />
+<img alt="image" src="https://github.com/user-attachments/assets/a702ef8f-ee3e-4500-b3ab-bfa285d01681" />
+<img alt="image" src="https://github.com/user-attachments/assets/83160c94-efff-4a06-ab4b-937d4d55aa28" />
+<img alt="image" src="https://github.com/user-attachments/assets/d8a79c50-c386-400c-b829-e45bcabc4f60" />
+<img alt="image" src="https://github.com/user-attachments/assets/6c9e9dde-36e3-4da7-9285-3bfba5cec706" />
+<img alt="image" src="https://github.com/user-attachments/assets/0e826164-3980-47ac-b379-0fc9c7bb2256" />
+<img alt="image" src="https://github.com/user-attachments/assets/8f191f90-447b-4b19-ac89-e059fcd78a46" />
+<img alt="image" src="https://github.com/user-attachments/assets/8a47a685-9f34-48eb-b5ec-8eb1f5c14ae5" />
+<img alt="image" src="https://github.com/user-attachments/assets/e5566f11-1008-478c-b430-f3b1e63c6764" />
 
 
 <p>&nbsp;</p><h3><strong>Key Features</strong></h3>
