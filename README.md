@@ -4,7 +4,7 @@
 It follows the latest UK tax calculation rules applicable in England, Wales, and Northern Ireland, enabling organizations to generate payslips for employees based on their income levels.</p>
 
 <img alt="image" src="https://github.com/user-attachments/assets/ec47572d-cb6f-4630-b282-b9963732656f" />
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/b835b6b1-e27d-44d9-b22a-2e6ea056e368" />
+<img alt="image" src="https://github.com/user-attachments/assets/b835b6b1-e27d-44d9-b22a-2e6ea056e368" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/a702ef8f-ee3e-4500-b3ab-bfa285d01681" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/83160c94-efff-4a06-ab4b-937d4d55aa28" />
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/d8a79c50-c386-400c-b829-e45bcabc4f60" />
